@@ -1,0 +1,32 @@
+# Local working state and unpublished research material
+/STATUS.md
+/DECISIONS.md
+/CLAUDE.md
+/AGENTS.md
+/GEMINI.md
+/notes/
+/private/
+/reviews/
+/submission/
+/sections/
+/data/
+/transcripts/
+/literature/
+*.jsonl
+*.pdf
+
+# Local configuration and generated files
+.env
+.env.*
+.DS_Store
+__pycache__/
+*.pyc
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.out
+*.run.xml
+*.toc
+*.synctex.gz
